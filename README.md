@@ -2,6 +2,6 @@
 Steps
 
 
-Don't forget to disable your Firewall and Windows Defender/Anti-Virus
-Run the .bat file with Administrator Privileges 
-Reboot Your PC and Enjoy :)
+Don't forget to disable your Firewall and Windows Defender/Anti-Virus <br />
+Run the .bat file with Administrator Privileges <br />
+Reboot Your PC and Enjoy :) <br />

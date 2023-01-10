@@ -1,5 +1,5 @@
 @echo off
-title Windows 11 and 11 ALL version Activator &cls&echo ********************************************* &echo Copyright:Github: /MIDNIGHT-DEVELOPER  &echo ********************************************* &echo.&echo Supported Windows 11 versions:&echo.&echo - Windows 11 Home &echo - Windows 11 Pro &echo - Windows 11 Pro Education &echo - Windows 11 Pro Workstation &echo - Windows 11 Enterprise &echo.&echo ********************************************* &echo Microsoft Windows 11 activation...
+title Windows 11 and 11 ALL version Activator &cls&echo ********************************************* &echo Copyright:Github: /IamCOD3X  &echo ********************************************* &echo.&echo Supported Windows 11 versions:&echo.&echo - Windows 11 Home &echo - Windows 11 Pro &echo - Windows 11 Pro Education &echo - Windows 11 Pro Workstation &echo - Windows 11 Enterprise &echo.&echo ********************************************* &echo Microsoft Windows 11 activation...
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 >nul
 echo ********************************************* &echo.&echo.&set i=1
 :server
